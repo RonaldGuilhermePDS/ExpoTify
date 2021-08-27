@@ -1,0 +1,297 @@
+{
+  "Recently": {
+    "Playlists": [
+      {
+        "id": 1,
+        "name": "Scorpions - The Best Of",
+        "photoAlbum": "https://mosaic.scdn.co/640/ab67616d0000b273787674b6a114f98cad6f834bab67616d0000b273926764eed4da16a86b9ce33eab67616d0000b2739f2023d391c3bd4acf4d51c6ab67616d0000b273cd9398a49f5da4810e381510",
+        "author": "Spotify"
+      },
+      {
+        "id": 2,
+        "name": "Lynyrd Skynyrd - The Best Of",
+        "photoAlbum": "https://mosaic.scdn.co/640/ab67616d0000b2730cd25694434a77a60d73af19ab67616d0000b273128450651c9f0442780d8eb8ab67616d0000b27317e1907923e91181f38290acab67616d0000b2737f8b369d5b3231c38ea16575",
+        "author": "Spotify"
+      },
+      {
+        "id": 3,
+        "name": "Hoobastank - The Best Of",
+        "photoAlbum": "https://i.scdn.co/image/ab67706c0000da84cffdb9591cccdb48a4ad9e77",
+        "author": "Spotify"
+      },
+      {
+        "id": 4,
+        "name": "R.E.M - The Best Of",
+        "photoAlbum": "https://i.scdn.co/image/ab67616d00001e0280acf738e38255c18ad66f86",
+        "author": "Spotify"
+      },
+      {
+        "id": 5,
+        "name": "The Outfield - The Best Of",
+        "photoAlbum": "https://i.scdn.co/image/ab67616d00001e02d8b8307316208d35b9d7094d",
+        "author": "Spotify"
+      }
+    ],
+    "YourPlaylists": [
+      {
+        "id": 1,
+        "name": "Tímpanos dos Deuses",
+        "photoAlbum": "https://mosaic.scdn.co/640/ab67616d00001e026b18e58a06aac7763abe319aab67616d00001e027136940d1367fb6514ec9b4fab67616d00001e028f5813c842cb115f3cf1fecdab67616d00001e02c5c6cddc4cdce692d2c9c630"
+      },
+      {
+        "id": 2,
+        "name": "Top 100 Rock and Metal Songs All Time",
+        "photoAlbum": "https://mosaic.scdn.co/640/ab67616d0000b27328a90d00a2819504364880e4ab67616d0000b27372d481a5999197ef5f42f796ab67616d0000b273b4ad7ebaf4575f120eb3f193ab67616d0000b273e44963b8bb127552ac761873"
+      }
+    ]
+  },
+  "PodCasts": {
+    "Shows": [
+      {
+        "id": 1,
+        "name": "Metal Podcast - Ep: 01",
+        "photoAlbum": "https://i.scdn.co/image/ab67706c0000da84ba736788cd71570508de02c3"
+      },
+      {
+        "id": 2,
+        "name": "Metal Podcast - Ep: 02",
+        "photoAlbum": "https://i.scdn.co/image/ab67706c0000da84ba736788cd71570508de02c3"
+      },
+      {
+        "id": 3,
+        "name": "Metal Podcast - Ep: 03",
+        "photoAlbum": "https://i.scdn.co/image/ab67706c0000da84ba736788cd71570508de02c3"
+      },
+      {
+        "id": 4,
+        "name": "Metal Podcast - Ep: 04",
+        "photoAlbum": "https://i.scdn.co/image/ab67706c0000da84ba736788cd71570508de02c3"
+      },
+      {
+        "id": 5,
+        "name": "Metal Podcast - Ep: 05",
+        "photoAlbum": "https://i.scdn.co/image/ab67706c0000da84ba736788cd71570508de02c3"
+      }
+    ],
+    "Episodies": [
+      {
+        "id": 1,
+        "name": "Episódio 01",
+        "podcastChanel": "Podcast",
+        "informations": "YESTERDAY - 10 MIN",
+        "photo": "https://i.scdn.co/image/ab67706c0000da8492f1e693c500aba412842de6"
+      },
+      {
+        "id": 2,
+        "name": "Episódio 02",
+        "podcastChanel": "Podcast",
+        "informations": "YESTERDAY - 20 MIN",
+        "photo": "https://i.scdn.co/image/ab67706c0000da8492f1e693c500aba412842de6"
+      },
+      {
+        "id": 3,
+        "name": "Episódio 03",
+        "podcastChanel": "Podcast",
+        "informations": "YESTERDAY - 40 MIN",
+        "photo": "https://i.scdn.co/image/ab67706c0000da8492f1e693c500aba412842de6"
+      },
+      {
+        "id": 4,
+        "name": "Episódio 04",
+        "podcastChanel": "Podcast",
+        "informations": "YESTERDAY - 80 MIN",
+        "photo": "https://i.scdn.co/image/ab67706c0000da8492f1e693c500aba412842de6"
+      },
+      {
+        "id": 5,
+        "name": "Episódio 05",
+        "podcastChanel": "Podcast",
+        "informations": "YESTERDAY - 160 MIN",
+        "photo": "https://i.scdn.co/image/ab67706c0000da8492f1e693c500aba412842de6"
+      }
+    ]
+  },
+  "Playlists": {
+    "PopularPlaylists": [
+      {
+        "id": 1,
+        "name": "Top 1",
+        "photoAlbum": "https://i.scdn.co/image/ab67706f00000002eb6ecd02b6e08dfdefcdcc21"
+      },
+      {
+        "id": 2,
+        "name": "Top 2",
+        "photoAlbum": "https://i.scdn.co/image/ab67706f00000002ed3a8bb5b72ab5ccbf5834b8"
+      },
+      {
+        "id": 3,
+        "name": "Top 3",
+        "photoAlbum": "https://i.scdn.co/image/ab67706f000000027a73d89dfa14f4a4cd7ba443"
+      },
+      {
+        "id": 4,
+        "name": "Top 4",
+        "photoAlbum": "https://i.scdn.co/image/ab67706f000000023dea752edffb0f7facbd4867"
+      },
+      {
+        "id": 5,
+        "name": "Top 5",
+        "photoAlbum": "https://i.scdn.co/image/ab67706f000000026705dfb8f5445fa4fdddf374"
+      }
+    ],
+    "MadeForYou": [
+      {
+        "id": 1,
+        "name": "00s Rock Anthems",
+        "photoAlbum": "https://i.scdn.co/image/ab67706f000000022cdb0982697cc0ae43b1b5b6"
+      },
+      {
+        "id": 2,
+        "name": "10s Rock Anthems",
+        "photoAlbum": "https://i.scdn.co/image/ab67706f000000023b7f8f4fc2f2fabf589982c2"
+      },
+      {
+        "id": 3,
+        "name": "60s Rock Anthems",
+        "photoAlbum": "https://i.scdn.co/image/ab67706f00000002879d28e1d86eb053bccaa4ae"
+      },
+      {
+        "id": 4,
+        "name": "70s Rock Anthems",
+        "photoAlbum": "https://i.scdn.co/image/ab67706f00000002561ca573ea307c49bacadf06"
+      },
+      {
+        "id": 5,
+        "name": "08s Rock Anthems",
+        "photoAlbum": "https://i.scdn.co/image/ab67706f00000002ce8fedf893dfb22cf1bf7d96"
+      }
+    ],
+    "YourPlaylists": [
+      {
+        "id": 1,
+        "name": "Tímpanos dos Deuses",
+        "photoAlbum": "https://mosaic.scdn.co/640/ab67616d00001e026b18e58a06aac7763abe319aab67616d00001e027136940d1367fb6514ec9b4fab67616d00001e028f5813c842cb115f3cf1fecdab67616d00001e02c5c6cddc4cdce692d2c9c630",
+        "create": true
+      },
+      {
+        "id": 2,
+        "name": "Top 100 Rock and Metal Songs All Time",
+        "photoAlbum": "https://mosaic.scdn.co/640/ab67616d0000b27328a90d00a2819504364880e4ab67616d0000b27372d481a5999197ef5f42f796ab67616d0000b273b4ad7ebaf4575f120eb3f193ab67616d0000b273e44963b8bb127552ac761873",
+        "create": false
+      }
+    ],
+    "Artists": [
+      {
+        "id": 1,
+        "name": "Dolores O'Riordan",
+        "photo": "https://i.scdn.co/image/ab67656300005f1f79fef8861142597f9ec90fd4"
+      },
+      {
+        "id": 2,
+        "name": "Mark Knopfler",
+        "photo": "https://i.scdn.co/image/ab67616100005174685c708602ec164b04e38e26"
+      }
+    ]
+  },
+  "Categories": {
+    "TopGenres": [
+      {
+        "id": 1,
+        "name": "Hip-Hop",
+        "color": "#F39A24"
+      },
+      {
+        "id": 2,
+        "name": "Pop",
+        "color": "#B8E2BE"
+      },
+      {
+        "id": 3,
+        "name": "Rock",
+        "color": "#EC1E32"
+      },
+      {
+        "id": 4,
+        "name": "Indie",
+        "color": "#4300FF"
+      }
+    ],
+    "All": [
+      {
+        "id": 5,
+        "name": "Indie",
+        "color": "#95B8C5"
+      },
+      {
+        "id": 6,
+        "name": "Podcasts",
+        "color": "#F38A24"
+      },
+      {
+        "id": 7,
+        "name": "New Releases",
+        "color": "#88B8C5"
+      },
+      {
+        "id": 8,
+        "name": "Chats",
+        "color": "#4C928E"
+      },
+      {
+        "id": 9,
+        "name": "Concerts",
+        "color": "#FF6525"
+      },
+      {
+        "id": 10,
+        "name": "Made for You",
+        "color": "#88B8C5"
+      },
+      {
+        "id": 11,
+        "name": "Brazil",
+        "color": "#EFBA5E"
+      },
+      {
+        "id": 12,
+        "name": "Funk",
+        "color": "#2D45BA"
+      },
+      {
+        "id": 13,
+        "name": "Samba & Pagode",
+        "color": "#016450"
+      },
+      {
+        "id": 14,
+        "name": "Summer",
+        "color": "#F28A25"
+      },
+      {
+        "id": 15,
+        "name": "Cities",
+        "color": "#508CF5"
+      },
+      {
+        "id": 16,
+        "name": "Eletronic/Dance",
+        "color": "#98E8DA"
+      },
+      {
+        "id": 17,
+        "name": "Christian",
+        "color": "#508BF8"
+      },
+      {
+        "id": 18,
+        "name": "Spotify Awards",
+        "color": "#12B1B4"
+      },
+      {
+        "id": 19,
+        "name": "MPB",
+        "color": "#9FC4D4"
+      }
+    ]
+  }
+}
