@@ -47,7 +47,7 @@ href="https://github.com/expo/expo">Expo</a> Platform Execution
 
 ## About
 
-<a href="https://github.com/RonaldGuilhermePDS/ExpoTify">ExpoTify</a> is a **Project** that aims to clone the **Discord Interface** to improve my **Skills**. 
+<a href="https://github.com/RonaldGuilhermePDS/ExpoTify">ExpoTify</a> is a **Project** that aims to clone the **Spotify Interface** to improve my **Skills**. 
 
 ## Built With
 
